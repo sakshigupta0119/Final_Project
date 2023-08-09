@@ -41,7 +41,9 @@ which it depends on or is built upon, and any development techniques or code str
 2. Demonstrate the system running and illustrate how it is used.
 3. Explain any limitations within the system, and how you might intend to further develop it.
 4. A conclusion that summarises the potential use of your system, and perhaps a word on the training program/challenge itself.
-CHALLENGE REVIEW CRITERIA
+
+
+# CHALLENGE REVIEW CRITERIA
 By way of a checklist, when instructors and others review your challenge, they will be looking for evidence of the following:
 ▪ A demonstration of a fully working system, showing that all the minimum requirements have been met.
 ▪ Good use of the Rest standards for API design.
